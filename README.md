@@ -4,7 +4,7 @@ This repository contains the implementation of the paper:
 
 **Improving Pre-Trained CNNs with CBAM and Skip Connections for Multi-Class Retinal Diseases Classification using OCT Images**
 
-[Paper Link - To be added]
+[https://dl.acm.org/doi/full/10.1145/3723178.3723304]
 
 ## Abstract
 
